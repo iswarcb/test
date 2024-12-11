@@ -2,9 +2,10 @@
 
 Notebook with solution: assignment_5.ipynb
 
-Notes
+Findings
 
 1. Gender seems to be not playing a role in acceptance.
 2. Younger drrivers are mor inclined to accept coupons.
 3. Coupon acceptance rate is very high towards the early evening time.
-4. Drivers with kids, dont hit bars.
+4. Drivers with kids, dont hit bars. Sending bar coupons to them can be  
+   avoided.
